@@ -5,8 +5,7 @@
 本專案為基於 OpenAI API 開發的互動式對話網頁應用，提供即時對話、照片處理及自訂提示詞等。
 
 ## 範例影片
-
-[Watch the Video](https://youtu.be/I0oBDpEDGzM)
+https://github.com/user-attachments/assets/8552d754-0cb8-491d-ac2e-f0bfc9037a66
 
 ## 主要功能
 
