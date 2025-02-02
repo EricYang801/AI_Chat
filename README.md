@@ -4,6 +4,10 @@
 ## 專案簡介
 本專案為基於 OpenAI API 開發的互動式對話網頁應用，提供即時對話、照片處理及自訂提示詞等。
 
+## Embedded Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0oBDpEDGzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 主要功能
 
 ### 對話功能
